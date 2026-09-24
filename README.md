@@ -20,7 +20,6 @@ El usuario puede indicar el nombre del documento, escribir el contenido que dese
 - Dart
 - PDF
 - Printing
-- Path Provider
 
 ## Dependencias
 El proyecto utiliza las siguientes dependencias:
@@ -31,13 +30,10 @@ dependencies:
     sdk: flutter
   pdf:
   printing:
-  path_provider:
 
 Las dependencias pueden instalarse utilizando:
 flutter pub add pdf
 flutter pub add printing
-flutter pub add path_provider
-
 
 ## Funcionamiento
 El funcionamiento de la aplicación sigue el siguiente proceso:

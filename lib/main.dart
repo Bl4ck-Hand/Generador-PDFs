@@ -3,7 +3,6 @@ import 'package:printing/printing.dart';
 import 'generadordepdf.dart';
 import 'dart:io';
 import 'dart:typed_data';
-import 'package:path_provider/path_provider.dart';
 
 void main(){
   runApp(const MyApp());
